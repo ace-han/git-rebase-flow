@@ -12,6 +12,6 @@ using vscode
 
 * mm - should be master (checkout b3, b4)
 * mm - should be b3
-* mm - should be b4 and then merge into master
+* b4 - should be b4 and then merge into master
 * mm - should be b5 rebase here master and then merge into master
 * mm - should be master

@@ -15,3 +15,11 @@ using vscode
 * b4 - should be b4 and then merge into master
 * b3 - should be b3 rebase here master and then merge into master
 * mm - should be master
+
+using source tree
+
+* mm - should be master (checkout b5, b6)
+* b5 - should be b5
+* b6 - should be b6 and then merge into master
+* b5 - should be b5 rebase here master and then merge into master
+* mm - should be master

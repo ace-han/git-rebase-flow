@@ -20,6 +20,6 @@ using source tree
 
 * mm - should be master (checkout b5, b6)
 * mm - should be b5
-* mm - should be b6 and then merge into master
+* b6 - should be b6 and then merge into master
 * mm - should be b5 merge here master and then merge back into master
 * mm - should be master
